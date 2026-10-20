@@ -1,0 +1,33 @@
+nav{
+    background-color: rgb(60, 150, 121);
+    color: black;
+    text-align: center;
+    padding: 15px;
+    border-radius: 0%;
+    
+ 
+
+
+}
+body{
+    background-color: rgb(228, 236, 231);
+    color: rgb(0, 255, 119)0, 255, 119;
+    text-align: justify;
+    h1 {
+        color: rgb(48, 143, 84);
+        font-style: italic;
+        
+    }
+    p{
+        color: rgb(99, 50, 205) 205;
+    }
+    h2{color: tomato;}
+    font-style: italic;
+
+}
+footer{
+    background-color: rgb(47, 135, 137);
+    color: aqua;
+    text-align: center;
+    padding: 40px;
+}
